@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Panagiotis Mitsopoulos (@pmitsopoulos)
-- 👀 I’m interested in Web Programming and Game Programming with Unity
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Blazor Framework and I'm enrolled on the Front End Web Development on BitDegree platform
 - 📫 How to reach me via email on the following address: pmdv147@gmail.com
 - 💞️ I’m looking to collaborate on ...
