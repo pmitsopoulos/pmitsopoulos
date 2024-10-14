@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Panagiotis Mitsopoulos (@pmitsopoulos)
 - 👀 I’m interested in Web Development with .NET 8
-- 🌱 I’m currently learning Blazor Framework
 - 📫 How to reach me via email on the following address: p.mits.14@gmail.com
 
 <!---
